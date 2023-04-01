@@ -18,10 +18,6 @@ Hello, I'm Lang Zhang, a prospective CS PhD student at Virginia Tech advised by 
 News
 ======
 
-[Feb. 2021] Our paper [“Anti-Aging Scheduling in Single-Server Queues: A Systematic and Comparative Study”](https://zhongdong1994.github.io/files/JCN_AoI.pdf) is accepted by Journal of Communications and Networks.
-
-[Dec. 2020] Our paper [“A Worst-Case Approximate Analysis of Peak Age-of-Information via Robust Queueing Approach”](https://zhongdong1994.github.io/files/Approximte_Robust-Queueing_Analysis_of_PAoI.pdf) is accpeted by INFOCOM 2021  (acceptance rate: 19.9%).
-
-[Aug. 2020] I transferred to the Department of Computer Science at Virginia Tech. 
+[Aug. 2023] I got the Phd student position in the Department of Computer Science at Virginia Tech.
 
 [May. 2022] Our paper ["A novel χ2 divergence for multisource information fusion and its application in pattern classification"](https://langzhang-vt.github.io/files/Published_paper-Int_J_of_Intelligent_Sys_2022_Zhang.pdf) is accepted by Int J Intell Syst. (JCR-1 IF = 8.993).
