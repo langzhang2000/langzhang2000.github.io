@@ -26,4 +26,4 @@ News
 
 [Aug. 2020] I transferred to the Department of Computer Science at Virginia Tech. 
 
-[May. 2022] Our paper ["A novel χ2 divergence for multisource information fusion and its application in pattern classification"](https://github.com/langzhang-vt/Publication-of-Lang/Published_paper-Int_J_of_Intelligent Sys_2022_Zhang.pdf) is accepted by Int J Intell Syst. (JCR-1 IF = 8.993).
+[May. 2022] Our paper ["A novel χ2 divergence for multisource information fusion and its application in pattern classification"](https://langzhang-vt.github.io/files/Published_paper-Int_J_of_Intelligent_Sys_2022_Zhang.pdf) is accepted by Int J Intell Syst. (JCR-1 IF = 8.993).
