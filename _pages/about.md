@@ -18,8 +18,6 @@ Hello, I'm Lang Zhang, a prospective CS PhD student at Virginia Tech advised by 
 News
 ======
 
-[Mar. 2021] I received INFOCOM 2021 Student Conference Award.
-
 [Feb. 2021] Our paper [“Anti-Aging Scheduling in Single-Server Queues: A Systematic and Comparative Study”](https://zhongdong1994.github.io/files/JCN_AoI.pdf) is accepted by Journal of Communications and Networks.
 
 [Dec. 2020] Our paper [“A Worst-Case Approximate Analysis of Peak Age-of-Information via Robust Queueing Approach”](https://zhongdong1994.github.io/files/Approximte_Robust-Queueing_Analysis_of_PAoI.pdf) is accpeted by INFOCOM 2021  (acceptance rate: 19.9%).
