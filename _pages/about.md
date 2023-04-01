@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Zhongdong (Nicholas) Liu, a fourth year CS PhD student at Virginia Tech advised by [Dr.Bo Ji](https://people.cs.vt.edu/boji/). My research interests include the modeling, analysis, control, optimization, and learning of computer and network systems. I have a particular interest in the information-update systems. 
+Hello, I'm Lang Zhang, a prospective CS PhD student at Virginia Tech advised by [Dr.Bo Ji](https://people.cs.vt.edu/boji/). My research interests include the evidence theory, multisource information fusion and quantum computing in machine learning. I have a particular interest in the application in machine learning with medical problems. 
 
 
 
