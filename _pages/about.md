@@ -20,6 +20,6 @@ News
 
 [Aug. 2023] I got the Phd student position in the Department of Computer Science at Virginia Tech.
 
-[December. 2022] THe paper ["Belief χ2 Divergence-Based Dynamical Complexity Analysis for Biological Systems"](https://langzhang-vt.github.io/files/ml4cs2022.pdf) is accepted by ML4CS.
+[Dec. 2022] The paper ["Belief χ2 Divergence-Based Dynamical Complexity Analysis for Biological Systems"](https://langzhang-vt.github.io/files/ml4cs2022.pdf) is accepted by ML4CS.
 
-[May. 2022] THe paper ["A novel χ2 divergence for multisource information fusion and its application in pattern classification"](https://langzhang-vt.github.io/files/Published_paper-Int_J_of_Intelligent_Sys_2022_Zhang.pdf) is accepted by Int J Intell Syst. (JCR-1 IF = 8.993).
+[May. 2022] The paper ["A novel χ2 divergence for multisource information fusion and its application in pattern classification"](https://langzhang-vt.github.io/files/Published_paper-Int_J_of_Intelligent_Sys_2022_Zhang.pdf) is accepted by Int J Intell Syst. (JCR-1 IF = 8.993).
