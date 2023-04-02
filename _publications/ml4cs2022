@@ -1,0 +1,15 @@
+---
+title: "A novel χ2 divergence for multisource information fusion and its application in pattern classification"
+collection: publications
+permalink: /publications/ijis2022
+excerpt: '[Download paper here](https://langzhang-vt.github.io/files/Published_paper-Int_J_of_Intelligent_Sys_2022_Zhang.pdf)'
+date: 2022-06-03
+venue: 'International Journal of Intelligent Systems'
+paperurl: 
+citation:
+---
+Abstract: Dempster-Shafer (D-S) evidence theory is invaluable in the domain of multisource information fusion for handing uncertainty problems. However, there may be counter-intuitive phenomenon when facing highly conflicting information. In this paper, a novel symmetric enhanced belief $\chi^2$ divergence measure, called $SEB\chi^2$, is proposed to measure the discrepancy between basic probability assignments (BPAs). The $SEB\chi^2$ divergence consider the features of BPAs as the influence of both single-element subsets and multielement subsets is taken into account. Furthermore, the $SEB\chi^2$ divergence is proven to be symmetric, nonnegative and nondegenerate, which are desirable properties for conflict management. Then, a new algorithm for multisource information fusion based on the $SEB\chi^2$ divergence measure is derived. Finally, an application for pattern classification is used to illustrate the superiority of the proposed $SEB\chi^2$ divergence measure-based fusion method over other existing well-known and recent related works with a better classification accuracy of 94.39%.
+
+[Download paper here](https://langzhang-vt.github.io/files/Published_paper-Int_J_of_Intelligent_Sys_2022_Zhang.pdf)
+
+Recommended citation:Zhang, L., & Xiao, F. (2022). A novel belief $\chi^2$ divergence for multisource information fusion and its application in pattern classification. International Journal of Intelligent Systems, 37(10), 7968-7991.
