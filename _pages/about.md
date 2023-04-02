@@ -18,7 +18,7 @@ Hello, I'm Lang Zhang, a prospective CS PhD student at Virginia Tech advised by 
 News
 ======
 
-[Aug. 2023] I got the Phd student position in the Department of Computer Science at Virginia Tech.
+[Feb. 2023] I got the Phd student position in the Department of Computer Science at Virginia Tech.
 
 [Dec. 2022] The paper ["Belief χ2 Divergence-Based Dynamical Complexity Analysis for Biological Systems"](https://langzhang-vt.github.io/files/ml4cs2022.pdf) is accepted by ML4CS.
 
