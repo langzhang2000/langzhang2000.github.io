@@ -27,7 +27,7 @@ Skills
   * Python, Matlab
 * Research Tool
   * Origin, Echarts
-* Data Analysis and Algorithm
+* Data Analysis and Machine Learning Algorithm
 
 Publications
 ======
