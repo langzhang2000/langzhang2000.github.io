@@ -18,7 +18,7 @@ Welcome! This is the homepage of Lang Zhang, a prospective CS PhD student at Vir
 News
 ======
 
-[May. 2022] The paper ["A novel χ2 divergence for multisource information fusion and its application in pattern classification"](https://langzhang2000.github.io/files/Multi-channel_EEG_Signals_Classification_Via_CNN_and_Multi-head_Self-attention_on_Evidence_Theory.pdf) is published in Information Sciences. (JCR-1, IF = 8.233).
+[May. 2022] The paper ["Multi-channel EEG Signals Classification Via CNN and Multi-head Self-attention on Evidence Theory"](https://langzhang2000.github.io/files/Multi-channel_EEG_Signals_Classification_Via_CNN_and_Multi-head_Self-attention_on_Evidence_Theory.pdf) is published in Information Sciences. (JCR-1, IF = 8.233).
 
 [Feb. 2023] I got the Phd student position in the Department of Computer Science at Virginia Tech.
 
