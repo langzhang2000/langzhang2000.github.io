@@ -1,0 +1,16 @@
+---
+title: "Belief Kullback-Leibler Divergence-based Dynamical Complexity Analysis for Biological Systems"
+collection: publications
+permalink: /publications/isct2022
+excerpt: '[Download paper here](https://langzhang2000.github.io/files/isct2022.pdf)'
+date: 2023-05-30
+venue: '2022 10th International Conference on Information Systems and Computing Technology'
+paperurl: 
+citation:
+---
+Abstract: Physical states can be fed back by the physiological signal as it contains the information of healthy
+systems. Specifically, dynamical time series is valuable data to reflect the pathological states by means of measuring the complexity of time series. Nevertheless, how to measure the complexity of physical signal is still an open issue. In this paper, a novel complexity measurement algorithm based on belief Kullback-Leibler (KL) divergence, called BKLDC, is proposed to calculate the complexity of biological systems time series. BKLDC algorithm firstly truncates biological systems signal into several slices with boundaries. In this case, the interval and border values are taken into account, which can differentiate the time series data. Then, based on the Dempster-Shafer (D-S) evidence theory, the format of timeseries data is converted to basic probability assignments (BPA). So, the feature of time series is obtained effectively as BKLDC algorithm considers the uncertainty of data signal. Hence, the complexity of physiological signal can be obtained by figuring out the divergence of BPAs. The divergence reflects discrepancy of BPAs, which presents the inherent complexity of data to some extent. In addition, an implementation in cardiac interbeat interval time series demonstrates the out-performance of BKLDC algorithm for pathological states analysis.
+
+[Download paper here](https://langzhang2000.github.io/files/isct2022.pdf)
+
+Recommended citation:L. Zhang and F. Xiao, "Belief Kullback-Leibler Divergence-based Dynamical Complexity Analysis for Biological Systems," 2022 10th International Conference on Information Systems and Computing Technology (ISCTech), Guilin, China, 2022, pp. 14-20, doi: 10.1109/ISCTech58360.2022.00009.
