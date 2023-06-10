@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! This is the homepage of Lang Zhang, a prospective CS PhD student at Virginia Tech advised by [Prof. Bo Ji](https://people.cs.vt.edu/boji/) in 2023 fall. My research interests include the evidence theory, multisource information fusion and quantum computing in machine learning. I have a particular interest in the application in machine learning with medical problems. 
+Welcome! This is the homepage of Lang Zhang, a prospective CS PhD student at Virginia Tech advised by [Prof. Bo Ji](https://people.cs.vt.edu/boji/) in 2023 fall. My undergraduate research includes the evidence theory, multisource information fusion and quantum computing in machine learning. I have a particular interest in the application in machine learning with biomedical problems. 
 
 
 
