@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! This is the homepage of Lang Zhang, a CS PhD student at Virginia Tech advised by [Prof. Bo Ji](https://people.cs.vt.edu/boji/) in 2023 fall. My current interest focuses on multimodal learning, eye-tracking analysis. I have a particular interest in the human-centered applications. Check ["CV PDF"](https://langzhang2000.github.io/files/CV_Lang_Zhang.pdf) here.
+Welcome! This is the homepage of Lang Zhang, a CS PhD student at Virginia Tech advised by [Prof. Bo Ji](https://people.cs.vt.edu/boji/) in 2023 fall. My current interest focuses on multimodal learning, and eye-tracking analysis. I have a particular interest in human-centered applications. Check ["CV PDF"](https://langzhang2000.github.io/files/CV_Lang_Zhang.pdf) here.
 
 
 
