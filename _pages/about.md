@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! This is the homepage of Lang Zhang, a CS PhD student at Virginia Tech advised by [Dr. Bo Ji](https://people.cs.vt.edu/boji/) in 2023 fall. My current interest focuses on multimodal learning, and eye-tracking analysis. I have a particular interest in human-centered applications. Check ["CV PDF"](https://langzhang2000.github.io/files/CV_Lang_Zhang.pdf) here.
+Welcome! This is the homepage of Lang Zhang, a CS PhD student at Virginia Tech advised by [Dr. Bo Ji](https://people.cs.vt.edu/boji/) since 2023 fall. My current interest focuses on multimodal learning, and eye-tracking analysis. I have a particular interest in human-centered applications. Check ["CV PDF"](https://langzhang2000.github.io/files/CV_Lang_Zhang.pdf) here.
 
 
 
@@ -17,6 +17,8 @@ Welcome! This is the homepage of Lang Zhang, a CS PhD student at Virginia Tech a
 
 News
 ======
+
+[May. 2026] The paper ["EyeCue: Driver Cognitive Distraction Detection via Gaze-Empowered Egocentric Video Understanding"](https://langzhang2000.github.io/files/ijcai2026.pdf) is accepted by **_IJCAI 2026_**.
 
 [Feb. 2024] The paper ["Belief Re´nyi Divergence of Divergence and Its Application in Time Series Classification"](https://langzhang2000.github.io/files/tkde2024.pdf) is published on **_TKDE_**. (JCR-1, IF = 8.9).
 
