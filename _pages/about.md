@@ -18,6 +18,8 @@ Welcome! This is the homepage of Lang Zhang, a CS PhD student at Virginia Tech a
 News
 ======
 
+[May. 2026] The paper ["EyeCue: Driver Cognitive Distraction Detection via Gaze-Empowered Egocentric Video Understanding"](https://langzhang2000.github.io/files/ijcai2026.pdf) is accepted by **_IJCAI 2026_**.
+
 [Feb. 2024] The paper ["Belief Re´nyi Divergence of Divergence and Its Application in Time Series Classification"](https://langzhang2000.github.io/files/tkde2024.pdf) is published on **_TKDE_**. (JCR-1, IF = 8.9).
 
 [May. 2023] The paper ["Multi-channel EEG Signals Classification Via CNN and Multi-head Self-attention on Evidence Theory"](https://langzhang2000.github.io/files/Multi-channel_EEG_Signals_Classification_Via_Ccccc-head_Self-attention_on_Evidence_Theory.pdf) is published on **_Information Sciences_**. (JCR-1, IF = 8.233).
