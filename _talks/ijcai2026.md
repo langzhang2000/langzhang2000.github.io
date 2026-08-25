@@ -1,7 +1,7 @@
 ---
 title: "EyeCue: Driver Cognitive Distraction Detection via Gaze-Empowered Egocentric Video Understanding"
 collection: talks
-type: "Conference oral presentation"
+type: "Conference oral and poster presentation"
 permalink: /talks/ijcai2026
 venue: "IJCAI-ECAI 2026"
 date: 2026-08-16
