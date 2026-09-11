@@ -22,7 +22,7 @@ News
 
 [Feb. 2024] The paper ["Belief Re´nyi Divergence of Divergence and Its Application in Time Series Classification"](https://langzhang2000.github.io/files/tkde2024.pdf) is published on **_TKDE_**. (JCR-1, IF = 8.9).
 
-[May. 2023] The paper ["Multi-channel EEG Signals Classification Via CNN and Multi-head Self-attention on Evidence Theory"](https://langzhang2000.github.io/files/Multi-channel_EEG_Signals_Classification_Via_Ccccc-head_Self-attention_on_Evidence_Theory.pdf) is published on **_Information Sciences_**. (JCR-1, IF = 8.233).
+[May. 2023] The paper ["Multi-channel EEG Signals Classification Via CNN and Multi-head Self-attention on Evidence Theory"](https://langzhang2000.github.io/files/Multi-channel_EEG_Signals_Classification_Via_CNN_and_Multi-head_Self-attention_on_Evidence_Theory.pdf) is published on **_Information Sciences_**. (JCR-1, IF = 8.233).
 
 [Feb. 2023] I got the Phd student position in the Department of Computer Science at **_Virginia Tech_**.
 
